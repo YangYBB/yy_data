@@ -1,3 +1,2 @@
-echo "# yy_data"
-echo "# README.md"
-echo "# README.md"
+# README.md
+## yy_data
